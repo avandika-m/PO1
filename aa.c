@@ -7,5 +7,6 @@ printf("enter the second number:");
 scanf("%d",&b);
 sum=a+b;
 printf("sum=%d",sum);
+  printf("enter name");
 return 0;
 }
